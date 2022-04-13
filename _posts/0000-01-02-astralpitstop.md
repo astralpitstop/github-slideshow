@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Well, well, well...if it aint Mr.sunshine himself.
 Use the left arrow to go back!
